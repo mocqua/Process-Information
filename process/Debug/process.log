@@ -1,0 +1,6 @@
+﻿  process.c
+F:\code\process\process\process.c(91,26): warning C4098: 'PrintProcessNameAndID': 'void' function returning a value
+F:\code\process\process\process.c(100,26): warning C4098: 'PrintProcessNameAndID': 'void' function returning a value
+F:\code\process\process\process.c(111,26): warning C4098: 'PrintProcessNameAndID': 'void' function returning a value
+F:\code\process\process\process.c(165,26): warning C4477: 'wprintf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HMODULE'
+  process.vcxproj -> F:\code\process\Debug\process.exe
